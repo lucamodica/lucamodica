@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hey there folks! 👋
+## I'm Luca Modica, a computer science student at the University of Turin. 💭💻🌐
 
 <!--
 **lucamodica/lucamodica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
