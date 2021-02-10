@@ -1,5 +1,8 @@
 ## Hey there folks! 👋
-#### I'm Luca Modica, a computer science student at the University of Turin. 💭💻🌐
+#### I'm Luca Modica, a computer science student at the University of Turin, addicted by code and amazed by AI. 💭💻🌐
+#### Down here you see some of my stats:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucamodica)](https://github.com/lucamodica/github-readme-stats)
 
 <!--
 **lucamodica/lucamodica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
