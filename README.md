@@ -4,7 +4,7 @@
 <hr/>
 
 ### Github Profile Trophy 🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=lucamodica&column=-1&theme=onedark&no-frame=true&count_private=true)](https://github.com/lucamodica/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lucamodica&column=-1&theme=onedark&no-frame=true)](https://github.com/lucamodica/github-profile-trophy)
 
 <hr/>
 
