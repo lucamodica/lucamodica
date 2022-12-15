@@ -17,9 +17,5 @@
 ### Languages 🗣️
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucamodica&theme=onedark&show_icons=true&hide_border=true&layout=compact)](https://github.com/lucamodica/github-readme-stats)
 
-### Just a snake 🐍💻
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/lucamodica/lucamodica/output/github-contribution-grid-snake.svg)
-
 
 
