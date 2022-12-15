@@ -12,9 +12,12 @@
 ### Stats 📊
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucamodica&show_icons=true&include_all_commits=true&count_private=true&theme=onedark&hide_border=true)](https://github.com/lucamodica/github-readme-stats) 
 
+<hr/>
+
+### Languages 🗣️
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucamodica&theme=onedark&show_icons=true&hide_border=true&layout=compact)](https://github.com/lucamodica/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lucamodica&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=57A6FF&fire=57A6FF&currStreakLabel=57A6FF&background=0F1017)]('https://github.com/lucamodica')
+### Just a snake 🐍💻
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/lucamodica/lucamodica/output/github-contribution-grid-snake.svg)
 
