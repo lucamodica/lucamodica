@@ -1,5 +1,5 @@
 ## Hey there folks! 👋
-#### I'm Luca Modica, a CS student addicted by code, amazed by AI and affascinated by data science. 💭💻🌐
+#### I'm Luca Modica, a graduated CS student addicted by code, amazed by AI and affascinated by data science. 💭💻🌐
 #### I'm on Kaggle (link of my profile [here](https://www.kaggle.com/lucamodica))! There you can find many of my project and tries about EDAs (Exploratory Data Analysis), building ML models to make operations like classification and much more!✨
 
 <hr/>
