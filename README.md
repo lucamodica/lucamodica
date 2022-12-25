@@ -11,21 +11,14 @@
 
 <table>
   <tr>
-    <td>### Stats 📊</td>
-    <td>### Languages 🗣️</td>
+    <td><b>Stats 📊</b></td>
+    <td<b>Languages 🗣️</b></td>
   </tr>
   <tr>
-    <td>### Stats 📊</td>
-    <td>### Languages 🗣️</td>
+    <td>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucamodica&show_icons=true&include_all_commits=true&count_private=true&theme=onedark&hide_border=true)](https://github.com/lucamodica/github-readme-stats) </td>
+    <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucamodica&theme=onedark&show_icons=true&hide_border=true&layout=compact)](https://github.com/lucamodica/github-readme-stats)</td>
   </tr>
 </table>
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucamodica&show_icons=true&include_all_commits=true&count_private=true&theme=onedark&hide_border=true)](https://github.com/lucamodica/github-readme-stats) 
-
-<hr/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucamodica&theme=onedark&show_icons=true&hide_border=true&layout=compact)](https://github.com/lucamodica/github-readme-stats)
 
 
 
