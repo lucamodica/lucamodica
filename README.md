@@ -9,6 +9,11 @@
 
 <hr/>
 
+<table>
+  
+
+</table>
+
 ### Stats 📊
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucamodica&show_icons=true&include_all_commits=true&count_private=true&theme=onedark&hide_border=true)](https://github.com/lucamodica/github-readme-stats) 
 
