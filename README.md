@@ -1,6 +1,6 @@
 ## Hey there folks! 👋
-#### I'm Luca Modica, a Computer Science graduate and Data Science and AI master's student. 💭💻🌐
-#### I'm on Kaggle (link of my profile [here](https://www.kaggle.com/lucamodica))! There you can find many of my project and tries about EDAs (Exploratory Data Analysis), building ML models to make operations like classification and much more!✨
+#### I'm Luca Modica, a Computer Science graduate and Data Science and AI master's student at [Chalmers University of Technology](https://www.chalmers.se/en/). 💭💻🌐
+#### I'm on Kaggle (link of my profile [here](https://www.kaggle.com/lucamodica))! There you can find many of my project and tries about EDAs (Exploratory Data Analysis), building ML models and much more!✨
 
 <hr/>
 
