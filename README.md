@@ -1,3 +1,3 @@
 ## Hey there folks! 👋
-#### I'm Luca Modica, a Computer Science graduate and Data Science and AI student at [Chalmers University of Technology](https://www.chalmers.se/en/). 💭💻🌐
-#### I'm on Kaggle (link of my profile [here](https://www.kaggle.com/lucamodica))! You can find many of my projects and tries about EDAs (Exploratory Data Analysis), building ML models, and much more!✨
+#### I'm Luca Modica, Research Fellow at the [University of Turin](https://en.unito.it/) and Data Science and AI graduate at [Chalmers University of Technology](https://www.chalmers.se/en/). 💭💻🌐
+#### Mainly interested in Deep Learning and interpretability of Multimodal Language Models, from understanding their internal representation of knowledge to the mechanisms that rules their behavior.
